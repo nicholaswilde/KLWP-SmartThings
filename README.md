@@ -1,4 +1,4 @@
-# KLWP-SmartThings
+# KLWP SmartThings
 A Kustom Live Wallpaper for SmartThings using SharpTools and Tasker.
 
  <a href="https://raw.githubusercontent.com/nicholaswilde/KLWP-SmartThings/master/screenshots/screener_20160911(11-34-04).png"> <img src="https://raw.githubusercontent.com/nicholaswilde/KLWP-SmartThings/master/screenshots/screener_20160911(11-34-04).png" width=512/></a>
