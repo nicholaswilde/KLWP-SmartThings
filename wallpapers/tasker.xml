@@ -1,8 +1,7 @@
 <TaskerData sr="" dvi="1" tv="4.8u5m">
 	<Profile sr="prof22" ve="2">
 		<cdate>1473385166599</cdate>
-		<edate>1473542820975</edate>
-		<flags>2</flags>
+		<edate>1474317946372</edate>
 		<id>22</id>
 		<mid0>34</mid0>
 		<Event sr="con0" ve="2">
@@ -28,6 +27,7 @@ The following variable is set when triggered:
 	<Profile sr="prof40" ve="2">
 		<cdate>1473568705856</cdate>
 		<edate>1473568908171</edate>
+		<flags>2</flags>
 		<id>40</id>
 		<mid0>31</mid0>
 		<Event sr="con0" ve="2">
@@ -59,18 +59,18 @@ The following variables are set when triggered:
 		</Event>
 	</Profile>
 	<Project sr="proj0" ve="2">
-		<cdate>1470193448255</cdate>
-		<mdate>1473566262929</mdate>
-		<name>Modes</name>
+		<cdate>1473994215917</cdate>
+		<mdate>1474317926694</mdate>
+		<name>Base</name>
 		<pids>22</pids>
-		<tids>34,27,35,36,37</tids>
+		<tids>34,27,37,35,36</tids>
 		<Img sr="icon" ve="2">
 			<nme>hd_aaa_ext_home</nme>
 		</Img>
 	</Project>
 	<Project sr="proj1" ve="2">
 		<cdate>1473433350989</cdate>
-		<mdate>1473922939857</mdate>
+		<mdate>1474317920565</mdate>
 		<name>Routines</name>
 		<tids>2,26,28,29,30,20</tids>
 		<Img sr="icon" ve="2">
@@ -890,7 +890,7 @@ Command: toggle</com.twofortyfouram.locale.intent.extra.BLURB>
 	</Task>
 	<Task sr="task34">
 		<cdate>1473448396113</cdate>
-		<edate>1473924221324</edate>
+		<edate>1474317754296</edate>
 		<id>34</id>
 		<nme>-ST- GetModes</nme>
 		<pri>100</pri>
@@ -917,17 +917,17 @@ Command: toggle</com.twofortyfouram.locale.intent.extra.BLURB>
 			<code>703953103</code>
 			<Bundle sr="arg0">
 				<Vals sr="val">
-					<com.twofortyfouram.locale.intent.extra.BLURB>Set: mode1</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Set: Md1Txt</com.twofortyfouram.locale.intent.extra.BLURB>
 					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
 					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>org.kustom.tasker.VAR_VALUE</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
 					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
 					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
 					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<org.kustom.tasker.VAR_NAME>mode1</org.kustom.tasker.VAR_NAME>
+					<org.kustom.tasker.VAR_NAME>Md1Txt</org.kustom.tasker.VAR_NAME>
 					<org.kustom.tasker.VAR_NAME-type>java.lang.String</org.kustom.tasker.VAR_NAME-type>
 					<org.kustom.tasker.VAR_VALUE>%st_modes1</org.kustom.tasker.VAR_VALUE>
 					<org.kustom.tasker.VAR_VALUE-type>java.lang.String</org.kustom.tasker.VAR_VALUE-type>
-					<org.kustom.tasker.extra.INT_VERSION_CODE>319623614</org.kustom.tasker.extra.INT_VERSION_CODE>
+					<org.kustom.tasker.extra.INT_VERSION_CODE>320626018</org.kustom.tasker.extra.INT_VERSION_CODE>
 					<org.kustom.tasker.extra.INT_VERSION_CODE-type>java.lang.Integer</org.kustom.tasker.extra.INT_VERSION_CODE-type>
 				</Vals>
 			</Bundle>
@@ -939,17 +939,17 @@ Command: toggle</com.twofortyfouram.locale.intent.extra.BLURB>
 			<code>703953103</code>
 			<Bundle sr="arg0">
 				<Vals sr="val">
-					<com.twofortyfouram.locale.intent.extra.BLURB>Set: mode1</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Set: Md2Txt</com.twofortyfouram.locale.intent.extra.BLURB>
 					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
 					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>org.kustom.tasker.VAR_VALUE</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
 					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
 					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
 					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<org.kustom.tasker.VAR_NAME>mode1</org.kustom.tasker.VAR_NAME>
+					<org.kustom.tasker.VAR_NAME>Md2Txt</org.kustom.tasker.VAR_NAME>
 					<org.kustom.tasker.VAR_NAME-type>java.lang.String</org.kustom.tasker.VAR_NAME-type>
-					<org.kustom.tasker.VAR_VALUE>%st_modes1</org.kustom.tasker.VAR_VALUE>
+					<org.kustom.tasker.VAR_VALUE>%st_modes2</org.kustom.tasker.VAR_VALUE>
 					<org.kustom.tasker.VAR_VALUE-type>java.lang.String</org.kustom.tasker.VAR_VALUE-type>
-					<org.kustom.tasker.extra.INT_VERSION_CODE>319623614</org.kustom.tasker.extra.INT_VERSION_CODE>
+					<org.kustom.tasker.extra.INT_VERSION_CODE>320626018</org.kustom.tasker.extra.INT_VERSION_CODE>
 					<org.kustom.tasker.extra.INT_VERSION_CODE-type>java.lang.Integer</org.kustom.tasker.extra.INT_VERSION_CODE-type>
 				</Vals>
 			</Bundle>
@@ -961,17 +961,17 @@ Command: toggle</com.twofortyfouram.locale.intent.extra.BLURB>
 			<code>703953103</code>
 			<Bundle sr="arg0">
 				<Vals sr="val">
-					<com.twofortyfouram.locale.intent.extra.BLURB>Set: mode2</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Set: Md3Txt</com.twofortyfouram.locale.intent.extra.BLURB>
 					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
 					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>org.kustom.tasker.VAR_VALUE</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
 					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
 					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
 					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<org.kustom.tasker.VAR_NAME>mode2</org.kustom.tasker.VAR_NAME>
+					<org.kustom.tasker.VAR_NAME>Md3Txt</org.kustom.tasker.VAR_NAME>
 					<org.kustom.tasker.VAR_NAME-type>java.lang.String</org.kustom.tasker.VAR_NAME-type>
-					<org.kustom.tasker.VAR_VALUE>%st_modes2</org.kustom.tasker.VAR_VALUE>
+					<org.kustom.tasker.VAR_VALUE>%st_modes3</org.kustom.tasker.VAR_VALUE>
 					<org.kustom.tasker.VAR_VALUE-type>java.lang.String</org.kustom.tasker.VAR_VALUE-type>
-					<org.kustom.tasker.extra.INT_VERSION_CODE>319623614</org.kustom.tasker.extra.INT_VERSION_CODE>
+					<org.kustom.tasker.extra.INT_VERSION_CODE>320626018</org.kustom.tasker.extra.INT_VERSION_CODE>
 					<org.kustom.tasker.extra.INT_VERSION_CODE-type>java.lang.Integer</org.kustom.tasker.extra.INT_VERSION_CODE-type>
 				</Vals>
 			</Bundle>
@@ -983,17 +983,17 @@ Command: toggle</com.twofortyfouram.locale.intent.extra.BLURB>
 			<code>703953103</code>
 			<Bundle sr="arg0">
 				<Vals sr="val">
-					<com.twofortyfouram.locale.intent.extra.BLURB>Set: mode3</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Set: Md4Txt</com.twofortyfouram.locale.intent.extra.BLURB>
 					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
 					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>org.kustom.tasker.VAR_VALUE</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
 					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
 					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
 					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<org.kustom.tasker.VAR_NAME>mode3</org.kustom.tasker.VAR_NAME>
+					<org.kustom.tasker.VAR_NAME>Md4Txt</org.kustom.tasker.VAR_NAME>
 					<org.kustom.tasker.VAR_NAME-type>java.lang.String</org.kustom.tasker.VAR_NAME-type>
-					<org.kustom.tasker.VAR_VALUE>%st_modes3</org.kustom.tasker.VAR_VALUE>
+					<org.kustom.tasker.VAR_VALUE>%st_modes4</org.kustom.tasker.VAR_VALUE>
 					<org.kustom.tasker.VAR_VALUE-type>java.lang.String</org.kustom.tasker.VAR_VALUE-type>
-					<org.kustom.tasker.extra.INT_VERSION_CODE>319623614</org.kustom.tasker.extra.INT_VERSION_CODE>
+					<org.kustom.tasker.extra.INT_VERSION_CODE>320626018</org.kustom.tasker.extra.INT_VERSION_CODE>
 					<org.kustom.tasker.extra.INT_VERSION_CODE-type>java.lang.Integer</org.kustom.tasker.extra.INT_VERSION_CODE-type>
 				</Vals>
 			</Bundle>
